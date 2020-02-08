@@ -1,0 +1,14 @@
+{
+  "name": "typescript-algorithms",
+  "version": "1.0.0",
+  "description": "algorithms implemented in typescript",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "Irakli Iremashvili",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
+}
